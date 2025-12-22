@@ -29,7 +29,6 @@
 ### 🌐 Portfolio & Profiles
 - 👨‍💻 Portfolio: **https://dev-ahmed-ashraf.vercel.app/**
 - 📄 Resume (CV): **https://drive.google.com/file/d/1rF9472Z0lKUklw031BDFiAa2gJWiohyN/view**
-- 📝 Articles & Notes: **https://github.com/Dev-Ahmed-Ashraf**
 
 ---
 
