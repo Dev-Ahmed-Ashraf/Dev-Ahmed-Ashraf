@@ -32,9 +32,6 @@
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://github.com/Dev-Ahmed-Ashraf" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
-  </a>
   <a href="https://linkedin.com/in/ahmed-ashraf-758b452b3" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
