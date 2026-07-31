@@ -11,7 +11,7 @@
     <a href="https://dev-ahmed-ashraf.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-dev--ahmed--ashraf.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
     <a href="https://linkedin.com/in/dev-ahmed-ashraf"><img src="https://img.shields.io/badge/LinkedIn-Ahmed_Ashraf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:ahmedashraf01085@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedashraf01085@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://github.com/Dev-Ahmed-Ashraf"><img src="https://img.shields.io/badge/Location-Cairo,%20Egypt%20(Remote%20Worldwide)-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Location"></a>
+    <a href="https://github.com/Dev-Ahmed-Ashraf"><img src="https://img.shields.io/badge/Location-Cairo,%20Egypt%20(Remote%20Worldwide)-24292e?style=for-the-badge&logo=location&logoColor=white" alt="Location"></a>
   </p>
 
   <br />
@@ -31,24 +31,6 @@ I enjoy solving real business problems through clean, maintainable code and cont
 - 🚀 **Currently Exploring:** AI-powered software, Azure cloud services, and distributed backend architectures.
 - 🌍 **Open To:** Remote opportunities, freelance projects, and technical collaborations.
   
----
-
-### 📊 GitHub Activity & Performance
-
-<div align="center">
-
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Dev-Ahmed-Ashraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ahmed-Ashraf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Ahmed-Ashraf&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
-</div>
-
 ---
 
 ### 📫 Get In Touch
