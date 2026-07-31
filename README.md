@@ -1,10 +1,10 @@
 <div align="center">
 
   <h1>Hi, I'm Ahmed Ashraf 👋</h1>
-  <h3>Junior Full Stack .NET Developer | Exploring AI-Powered Applications</h3>
+  <h3>Full Stack .NET Developer | AI Integration Developer</h3>
 
   <p>
-    Computer Science student building full-stack apps with <b>ASP.NET Core</b> and <b>Angular</b>, and learning to add
+    **Full Stack .NET Developer** specializing in building full-stack apps with <b>ASP.NET Core</b> and <b>Angular</b>, and learning to add
     AI features like <b>RAG</b> and <b>LLM tool calling</b> to real projects.
   </p>
 
