@@ -11,7 +11,6 @@
     <a href="https://dev-ahmed-ashraf.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-dev--ahmed--ashraf.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
     <a href="https://linkedin.com/in/dev-ahmed-ashraf"><img src="https://img.shields.io/badge/LinkedIn-Ahmed_Ashraf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:ahmedashraf01085@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedashraf01085@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://github.com/Dev-Ahmed-Ashraf"><img src="https://img.shields.io/badge/Location-Cairo,%20Egypt%20(Remote%20Worldwide)-24292e?style=for-the-badge&logo=location&logoColor=white" alt="Location"></a>
   </p>
 
   <br />
