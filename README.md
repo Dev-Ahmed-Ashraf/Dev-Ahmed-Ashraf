@@ -22,12 +22,14 @@
 
 ### 👤 Summary
 
-I am a **Full Stack .NET Developer & AI Systems Engineer** with hands-on experience building enterprise web applications, microservices, and AI-driven solutions. 
+I'm a **Full Stack .NET Developer** specializing in building modern backend systems that combine robust software engineering with practical AI capabilities.
 
-My backend philosophy relies on **Clean Architecture**, **CQRS (MediatR)**, and **Domain-Driven Design**. I specialize in bridging traditional high-throughput .NET backends with modern AI capabilities—including **Retrieval-Augmented Generation (RAG)**, **Qdrant Vector Databases**, **Ollama embeddings**, and **Autonomous LLM Tool Calling (Groq LLaMA 3.3)**.
+My primary stack includes **ASP.NET Core**, **Angular**, **SQL Server**, **Clean Architecture**, and **CQRS**, with hands-on experience integrating **Retrieval-Augmented Generation (RAG)**, **LLM Tool Calling**, **Semantic Search**, and **Vector Databases** into production-style applications.
 
-* 💼 **Current Focus**: Architecting asynchronous RAG ingestion pipelines, resilient event-driven microservices with RabbitMQ & MassTransit, and deploying containerized Azure applications with automated CI/CD.
-* 🌍 **Target Roles**: Open to **Part-Time Remote Roles** worldwide & high-impact engineering contracts.
+I enjoy solving real business problems through clean, maintainable code and continuously expanding my expertise in **Microsoft Azure**, **Docker**, and cloud-native application development.
+
+- 🚀 **Currently Exploring:** AI-powered software, Azure cloud services, and distributed backend architectures.
+- 🌍 **Open To:** Remote opportunities, freelance projects, and technical collaborations.
   
 ---
 
