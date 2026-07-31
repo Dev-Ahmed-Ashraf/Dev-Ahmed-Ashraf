@@ -47,9 +47,17 @@ My backend philosophy relies on **Clean Architecture**, **CQRS (MediatR)**, and 
 
 ### 💼 Professional Experience
 
-🏢 Full Stack .NET Developer Intern @ Digital Business Systems (DBS MENA) | Cairo, Egypt (Apr 2026 – Jun 2026) ├── Developed production-grade Product Management System using ASP.NET Core and Angular within an Agile setup. ├── Designed and secured RESTful APIs using Clean Architecture, CQRS (MediatR), EF Core, and SQL Server. └── Implemented JWT authentication, permission-based authorization, and dynamic frontend Angular features.
+```
+🏢 Full Stack .NET Developer Intern @ Digital Business Systems (DBS MENA) | Cairo, Egypt (Apr 2026 – Jun 2026)
+├── Developed production-grade Product Management System using ASP.NET Core and Angular within an Agile setup.
+├── Designed and secured RESTful APIs using Clean Architecture, CQRS (MediatR), EF Core, and SQL Server.
+└── Implemented JWT authentication, permission-based authorization, and dynamic frontend Angular features.
 
-💻 Backend Developer Intern @ Code Way | Remote (Sep 2025 – Jan 2026) ├── Developed Distributed Notifications Microservice supporting 3 delivery channels (In-App, Email, Push). ├── Built event-driven communication using RabbitMQ & MassTransit with retry policies and dead-letter handling. └── Applied Transactional Outbox Pattern, Background Services, CQRS, and Stored Procedures for data integrity.
+💻 Backend Developer Intern @ Code Way | Remote (Sep 2025 – Jan 2026)
+├── Developed Distributed Notifications Microservice supporting 3 delivery channels (In-App, Email, Push).
+├── Built event-driven communication using RabbitMQ & MassTransit with retry policies and dead-letter handling.
+└── Applied Transactional Outbox Pattern, Background Services, CQRS, and Stored Procedures for data integrity.
+```
 
 ---
 
