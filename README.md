@@ -4,11 +4,11 @@
   <h3>Junior Full Stack .NET Developer</h3>
 
   <p>
-    Building production-grade distributed backends, event-driven microservices, and multi-stage RAG architectures with <b>.NET 8</b>, <b>Azure</b>, and <b>Agentic AI</b>.
+    I build modern backend applications using ASP.NET Core, Clean Architecture, CQRS, and AI integrations. I enjoy creating production-ready APIs and intelligent software powered by RAG, vector search, and tool calling.
   </p>
 
   <p>
-    <a href="[My Portofolio](https://dev-ahmed-ashraf.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-dev--ahmed--ashraf.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+    <a href="https://dev-ahmed-ashraf.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dev--ahmed--ashraf.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
     <a href="https://linkedin.com/in/dev-ahmed-ashraf"><img src="https://img.shields.io/badge/LinkedIn-Ahmed_Ashraf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:ahmedashraf01085@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedashraf01085@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://github.com/Dev-Ahmed-Ashraf"><img src="https://img.shields.io/badge/Location-Cairo,%20Egypt%20(Remote%20Worldwide)-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Location"></a>
